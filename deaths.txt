@@ -8,3 +8,10 @@ A lion stalks &D, before ruthlessly devouring them.
 &K pushes &D off a cliff.
 &K stabs &D during their sleep.
 &K trips &D and stabs them.
+&D couldn't escape the maze.
+I didn't like &D, so I killed them.
+&D fell from a high place.
+&D experienced kinetic energy.
+&D fell into the void.
+&D tripped on a log whilst trying to escape &K.
+&K speared &D.
